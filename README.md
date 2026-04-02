@@ -43,6 +43,11 @@ This project is currently under development.
 - Requests / HTTP libraries
 - File system handling with Python standard libraries
 
+## Learning & References
+
+This project was developed for study purposes, inspired by content from the 
+:contentReference[oaicite:0]{index=0} YouTube channel.
+
 ## Notes
 
 This repository focuses on automating data retrieval from ONS public cloud resources. Users should verify the data source structure and access conditions before execution, as source URLs or file organization may change over time.
@@ -50,4 +55,3 @@ This repository focuses on automating data retrieval from ONS public cloud resou
 ## Author
 
 Developed for automated collection of ONS power generation data by power plant.
-
