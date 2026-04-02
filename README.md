@@ -46,7 +46,7 @@ This project is currently under development.
 ## Learning & References
 
 This project was developed for study purposes, inspired by content from the 
-:contentReference[oaicite:0]{index=0} YouTube channel.
+[@eficienciaprogramada](https://www.youtube.com/@eficienciaprogramada) YouTube channel.
 
 ## Notes
 
